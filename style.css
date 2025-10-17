@@ -1,0 +1,21 @@
+/* General background and font color */
+body {
+    background-color: #FAF3E0;
+    color: #4B3F2F;
+}
+
+/* Label utama pertanyaan */
+section > div > label, div[role="radiogroup"] > div > label {
+    color: #4B3F2F !important;
+    font-weight: 600;
+}
+
+/* Pilihan radio */
+div[role="radiogroup"] label {
+    color: #4B3F2F !important;
+}
+
+/* Optional: Judul/teks lainnya */
+h1, h2, h3, h4, h5, h6, p {
+    color: #4B3F2F;
+}
