@@ -13,13 +13,24 @@ Work–life balance is a commonly discussed concept that reflects how individual
 
 The core idea behind this project comes from the observation that many people work extremely hard to meet their needs, often without realizing where they currently stand in terms of balance. By building this model using Stacking Model, the goal is to provide insights that can help individuals better understand their work–life balance condition and possibly improve it through data-driven awareness.
 <br>
-## Developer
+## Publisher
 Defa Danuarta (Data Analyst & Computer Science Student)
 <br>
+
+## Team Credit
+Shout out to these people behind the idea
+1. Eduard Mario Kayesa
+2. I Kadek Defa Danuarta
+3. Faradilla Alfaira Chandra
+4. Gabriela Sarifa Cristiananda
 
 ## Built Time
 This project was developed during the time of our 4th Semester as a team.  
 <br>
+
+## Project Title Update 🙏
+The project title has been updated from _“Work Life Balance with XGBoost”_ to _“Work Life Balance with Stacking Model.”_
+The previous title reflected the initial experimentation phase, where XGBoost was one of the primary models tested. After comparing multiple algorithms and evaluating performance, the Stacking Regressor was selected as the final model for deployment due to its superior and more stable results.
 
 ## Libraries Used
 
