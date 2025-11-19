@@ -84,7 +84,7 @@ streamlit run Home.py
 
 ## Key Metrics
 ---
-Based on the project, the model it self have a metrics that we configure to search, starting with:
+Based on the project, the model it self have a metrics that we aim to be inspected, starting with:
 1. MAE: Mean Average Error
 2. MSE: Mean Squared Error
 3. R² Score: r2 score
