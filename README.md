@@ -95,7 +95,7 @@ Based on the project, the model it self have a metrics that we aim to be inspect
 
 ## Files description
 ```
-project-directory/
+Work-Life-Balance-Stacking-Model/
 │── Home.py                                 # Main Streamlit entry point
 │── style.css                               # Custom UI styling
 │── datasets_wellbeing.csv                  # Cleaned dataset used for modeling
