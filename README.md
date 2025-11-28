@@ -12,7 +12,11 @@
 Work–life balance is a commonly discussed concept that reflects how individuals manage their time, energy, and responsibilities between work and personal life. In this project, my contribution (Defa Danuarta) focused on data preparation, including feature selection, identifying correlated variables, and cleaning the dataset from inconsistencies and errors.
 
 The core idea behind this project comes from the observation that many people work extremely hard to meet their needs, often without realizing where they currently stand in terms of balance. By building this model using Stacking Model, the goal is to provide insights that can help individuals better understand their work–life balance condition and possibly improve it through data-driven awareness.
-<br>
+
+## Dataset
+We used a clean dataset founded on kaggle, titled: "Lifestyle_and_Wellbeing_Data". This data coverage all of the process especially in training
+[Click here to see the dataset](https://www.kaggle.com/datasets/ydalat/lifestyle-and-wellbeing-data)
+
 ## Publisher
 Defa Danuarta (Data Analyst & Computer Science Student)
 <br>
